@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="altura">Altura (m)</string>
+    <string name="description_altura">Informe a altura em metros</string>
+
+    <string name="peso">Peso (kg)</string>
+    <string name="description_peso">Informe o peso em quilogramas</string>
+
+    <string name="btn_calcular">Calcular</string>
+    <string name="description_btn_calcular">Clique aqui para calcular o IMC</string>
+
+    <string name="seu_imc_eh">Seu índice de massa corporal é</string>
+    <string name="valores_invalidos">Os valores de peso e/ou altura são inválidos.</string>
+
+    <string name="class1">Magro</string>
+    <string name="class2">Normal</string>
+    <string name="class3">Sobrepeso - Grau 1</string>
+    <string name="class4">Obesidade - Grau 2</string>
+    <string name="class5">Obesidade Grave - Grau 3</string>
+
+
+</resources>
